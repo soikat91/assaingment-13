@@ -1,0 +1,8 @@
+Part 1: Laravel Installation
+
+Firstly I have opened code editor.I have written in terminal command composer create-install laravel/laravel OstadApp.I have successfully laravel package install. 
+Then,I have run  php artisan serve in terminal command.Finally, i have successfully run this project in browser.
+
+
+
+
